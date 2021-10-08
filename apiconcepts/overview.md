@@ -1,6 +1,7 @@
 # Mantra API Documentation #
 ## Getting Started with the Managed Translation API ##
 This document helps you get started with the API's by following a project through its entire lifecycle from creation to completion:
+
 1. Authenticate with the API
 2. Create a project
 3. Track your project
