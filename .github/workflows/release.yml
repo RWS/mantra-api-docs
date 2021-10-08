@@ -21,8 +21,8 @@ jobs:
     runs-on: windows-latest
 
     env:
-      ProductName: Mantra
-      ProductNameWithEdition: 'Mantra'
+      ProductName: mantra
+      ProductNameWithEdition: 'mantra'
       AppSigningEmail : app-signing@sdl.com
       DotNetVersion: '.Net Framework 4.8'
     # Steps represent a sequence of tasks that will be executed as part of the job
